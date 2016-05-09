@@ -1,0 +1,22 @@
+{
+  "name": "angular-cookies",
+  "version": "1.0.0",
+  "description": "angular cookies module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sivaramnatteamf1/angular-cookies.git"
+  },
+  "keywords": [
+    "cookies"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivaramnatteamf1/angular-cookies/issues"
+  },
+  "homepage": "https://github.com/sivaramnatteamf1/angular-cookies"
+}
